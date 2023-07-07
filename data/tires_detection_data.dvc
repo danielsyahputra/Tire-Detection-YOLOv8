@@ -1,0 +1,6 @@
+outs:
+- md5: c4e62dd6a3d3e017eb5504132a464ee2.dir
+  size: 239073831
+  nfiles: 5217
+  hash: md5
+  path: tires_detection_data
